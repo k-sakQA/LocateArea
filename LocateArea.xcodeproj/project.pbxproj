@@ -7,19 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7B0672F72CD1F7BD00C3E9D9 /* aoaka_street.gpx in Sources */ = {isa = PBXBuildFile; fileRef = 7B0672F62CD1F7AA00C3E9D9 /* aoaka_street.gpx */; };
 		7B5DC87B2CC781400089B0AC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B5DC87A2CC781400089B0AC /* ViewController.swift */; };
-		7B5DC87D2CC782A50089B0AC /* tobitakyu.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7B5DC87C2CC782A50089B0AC /* tobitakyu.gpx */; };
-		7B5DC8812CC7838E0089B0AC /* Food.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7B5DC8802CC7838E0089B0AC /* Food.gpx */; };
 		7B5DC8852CC7845D0089B0AC /* Stadium.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 7B5DC8842CC784430089B0AC /* Stadium.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7B0672F62CD1F7AA00C3E9D9 /* aoaka_street.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; path = aoaka_street.gpx; sourceTree = "<group>"; };
 		7B5DC8622CC732530089B0AC /* LocateArea.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocateArea.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B5DC87A2CC781400089B0AC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7B5DC87C2CC782A50089B0AC /* tobitakyu.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = tobitakyu.gpx; sourceTree = "<group>"; };
-		7B5DC8802CC7838E0089B0AC /* Food.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Food.gpx; sourceTree = "<group>"; };
 		7B5DC8842CC784430089B0AC /* Stadium.gpx */ = {isa = PBXFileReference; lastKnownFileType = text; path = Stadium.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,9 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				7B5DC8842CC784430089B0AC /* Stadium.gpx */,
-				7B0672F62CD1F7AA00C3E9D9 /* aoaka_street.gpx */,
-				7B5DC87C2CC782A50089B0AC /* tobitakyu.gpx */,
-				7B5DC8802CC7838E0089B0AC /* Food.gpx */,
 				7B5DC87A2CC781400089B0AC /* ViewController.swift */,
 				7B5DC8642CC732530089B0AC /* LocateArea */,
 				7B5DC8632CC732530089B0AC /* Products */,
@@ -141,8 +132,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B5DC8852CC7845D0089B0AC /* Stadium.gpx in Resources */,
-				7B5DC87D2CC782A50089B0AC /* tobitakyu.gpx in Resources */,
-				7B5DC8812CC7838E0089B0AC /* Food.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B5DC87B2CC781400089B0AC /* ViewController.swift in Sources */,
-				7B0672F72CD1F7BD00C3E9D9 /* aoaka_street.gpx in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
