@@ -19,7 +19,7 @@
 1. リポジトリをクローン  
    ```bash
    git clone https://github.com/k-sakQA/LocateArea.git
-````
+　````
 
 2. Xcode でプロジェクトを開く
 
