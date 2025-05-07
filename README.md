@@ -32,7 +32,7 @@
 
 1. アプリを iOS シミュレータで起動
 2. Xcode のメニューから **Debug > Simulate Location > Stadium** を選択
-3. `Stadium.gpx` などのgpxファイルに定義された座標がシミュレートされ、地図に反映される
+3. `Stadium.gpx` などのgpxファイルに定義された座標がシミュレートされ、端末の地図に反映される
 
 ## カスタム GPX の追加方法
 
